@@ -63,3 +63,4 @@ Analysis of Louise’s play Fever fundraising goal review with respect to how di
 - 	Pie charts , and Box and whiskers charts could sfuther support analysis and visualizations
 
 ![Plot 1](https://github.com/Adegbenga1/Kickstarter_Challenge/blob/main/Outcomes%20Vs%20Goals.png?raw=true)
+![Plot 2] (https://github.com/Adegbenga1/Kickstarter_Challenge/blob/main/Theater%20Outcomes%20Lauch%20dates.png?raw=true)
