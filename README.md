@@ -19,6 +19,9 @@ Analysis of Louise’s play Fever fundraising goal review with respect to how di
 						fileds in the columns, rows, and value sections. Column labels were 
 						filtered to  show only "successful," "failed," and "canceled."
 						Using  Filter, the "Parent Category"  showed only the data for "theater." 
+						
+![Plot 1](https://github.com/Adegbenga1/Kickstarter_Challenge/blob/main/Theater%20Outcomes%20Lauch%20dates.png?raw=true)	
+						
 
 ### Analysis of Outcomes Based on Goals : Analysis of  Outcomes Based on Goals based was achieved by creating column to hold Goal,
 					  Number Successful,Number Failed,Number Canceled,Total Projects,Percentage Successful,Percentage Failed
@@ -30,12 +33,14 @@ Analysis of Louise’s play Fever fundraising goal review with respect to how di
 					  amount column using the ranges created.
 
 					  # COUNTIFS(' Kickstarter_Challenge'!$D$2:$D$4065,"<1000",' Kickstarter_Challenge'!$F$2:$F$4065,"successful")
-					  #COUNTIFS(' Kickstarter_Challenge'!$D$2:$D$4065,">=1000",' Kickstarter_Challenge'!$D$2:$D$4065,"<="& "4999",' Kickstarter_Challenge'!$F$2:$F$4065,"successful")
+					  #COUNTIFS(' Kickstarter_Challenge'!$D$2:$D$4065,">=1000",' Kickstarter_Challenge'!$D$2:$D$4065,"<="& "4999",' 			Kickstarter_Challenge'!$F$2:$F$4065,"successful")
 					  
 					  Subsequently , the sum() fuction was used to to populate the "Total Projects" column 
 					  with the number of successful, failed, and canceled projects for each row. 
 					  The percentage of successful, failed, and canceled projects for each row was calculated 
 					  and a line chart created
+					  
+![Plot 2](https://github.com/Adegbenga1/Kickstarter_Challenge/blob/main/Outcomes%20Vs%20Goals.png?raw=true)
 
 ### Challenges and Difficulties Encountered :Based on previous lectures and on-hand practice, the challenges encountered were
 					     not too difficult to handle. Creating a counif() was a challenge but not difficult.
@@ -62,6 +67,6 @@ Analysis of Louise’s play Fever fundraising goal review with respect to how di
 - What are some other possible tables and/or graphs that we could create? 
 - 	Pie charts , and Box and whiskers charts could sfuther support analysis and visualizations
 - 	
-![Plot 1](https://github.com/Adegbenga1/Kickstarter_Challenge/blob/main/Theater%20Outcomes%20Lauch%20dates.png?raw=true)
-![Plot 2](https://github.com/Adegbenga1/Kickstarter_Challenge/blob/main/Outcomes%20Vs%20Goals.png?raw=true)
+
+
 
