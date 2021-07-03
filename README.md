@@ -64,7 +64,7 @@ There was zero number of successful outcomes for goal range between $35000 - $39
 The most successful ranges are Less than 1000,$1000 - $4999 ,$5000 - $9999 and $10000 - $14999
 
 # What are two conclusions you can draw about the Outcomes based on Launch Date? 
--	 Launching will be more successful between MAy and August . However, the month 
+-	 Launching will be more successful between May and August . However, the month 
  	of May shows more shows significant potential succes for launch dates
 
 # What can you conclude about the Outcomes based on Goals? 
