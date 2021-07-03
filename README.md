@@ -45,7 +45,8 @@ Subsequently , the sum() fuction was used to to populate the "Total Projects" co
 with the number of successful, failed, and canceled projects for each row. 
 The percentage of successful, failed, and canceled projects for each row was calculated 
 and a line chart created. Analysis of  Outcomes Based on Goals based was achieved by creating column to hold Goal,
-					
+
+![Plot 2](https://github.com/Adegbenga1/Kickstarter_Challenge/blob/main/Theater%20Outcomes%20Lauch%20dates.png?raw=true)
 ### Challenges and Difficulties Encountered :
 
 Based on previous lectures and on-hand practice, the challenges encountered were
