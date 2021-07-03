@@ -47,8 +47,8 @@ The percentage of successful, failed, and canceled projects for each row was cal
 and a line chart created. Analysis of  Outcomes Based on Goals based was achieved by creating column to hold Goal,
 
 ![Plot 2](https://github.com/Adegbenga1/Kickstarter_Challenge/blob/main/Outcomes%20Vs%20Goals.png?raw=true)
-### Challenges and Difficulties Encountered :
 
+### Challenges and Difficulties Encountered :
 Based on previous lectures and on-hand practice, the challenges encountered were
 not too difficult to handle. Creating a counif() was a challenge but not difficult.
 
@@ -66,6 +66,7 @@ The most successful ranges are Less than 1000,$1000 - $4999 ,$5000 - $9999 and $
 # What are two conclusions you can draw about the Outcomes based on Launch Date? 
 -	1.Launching will be more successful between May and August . However, the month 
  	  of May shows more shows significant potential succes for launch dates.
+	  
 	2. Percentage number of successful and failed Theater campaigs were 57% and 43% respectively with no single canceled launched date.
 
 # What can you conclude about the Outcomes based on Goals? 
