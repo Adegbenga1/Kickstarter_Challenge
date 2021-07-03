@@ -64,8 +64,9 @@ There was zero number of successful outcomes for goal range between $35000 - $39
 The most successful ranges are Less than 1000,$1000 - $4999 ,$5000 - $9999 and $10000 - $14999
 
 # What are two conclusions you can draw about the Outcomes based on Launch Date? 
--	 Launching will be more successful between May and August . However, the month 
- 	of May shows more shows significant potential succes for launch dates
+-	1.Launching will be more successful between May and August . However, the month 
+ 	  of May shows more shows significant potential succes for launch dates.
+	2. Percentage number of successful and failed Theater campaigs were 57% and 43% respectively with no single canceled launched date.
 
 # What can you conclude about the Outcomes based on Goals? 
 - 	Target goals should be between less than $1000 to $14999. in order to achieve anexceellent results
