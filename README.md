@@ -69,7 +69,7 @@ The most successful ranges are Less than 1000,$1000 - $4999 ,$5000 - $9999 and $
 2. Percentage number of successful and failed Theater campaigs were 57% and 43% respectively with no single canceled launched date.
 
 # What can you conclude about the Outcomes based on Goals? 
-- Target goals should be between less than $1000 to $14999. in order to achieve anexceellent results
+- Target goals should be between less than $1000 to $14999. in order to achieve an exceellent results
 
 # What are some limitations of this dataset? 
 - Data types conversion is one of the limitations 
