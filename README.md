@@ -75,8 +75,8 @@ The most successful ranges are Less than 1000,$1000 - $4999 ,$5000 - $9999 and $
 - Data types conversion is one of the limitations 
 
 # What are some other possible tables and/or graphs that we could create? 
-- Pie charts , and Box and whiskers charts could sfuther support analysis and visualizations
-- 	
+- Pie charts and Box and whiskers charts can be used to  support analysis and visualizations
+	
 
 
 
